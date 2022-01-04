@@ -22,7 +22,7 @@ public class CPHInline
                     {
                         injectedline = true;
                         sw.Write(line);
-                        CPH.SendMessage("@" + user + " fährt die Ellebogen aus und reiht sich ganz vorne in der Schlange ein!");
+                        CPH.SendMessage("@" + user + " fährt die Ellenbogen aus und reiht sich ganz vorne in der Schlange ein!");
                     }
                 }
 			if (!injectedline){
